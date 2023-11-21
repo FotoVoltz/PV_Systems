@@ -1,7 +1,7 @@
 # Renewables.ninja Solar photovoltaic power (PV) (Point API) - 51.752, -1.258 - Version: 1.1 (using GSEE v0.3.1) - License: https://creativecommons.org/licenses/by-nc/4.0/ - Reference: https://doi.org/10.1016/j.energy.2016.08.060,,,,,,,,,,,,,,,,,
 # Units: time in UTC, local_time in Europe/London, electricity in kW, irradiance_direct in unknown, irradiance_diffuse in unknown, temperature in ºC,,,,,,,,,,,,,
 "# {""units"": {""time"": ""UTC"""," ""local_time"": ""Europe/London"""," ""electricity"": ""kW"""," ""irradiance_direct"": ""unknown"""," ""irradiance_diffuse"": ""unknown"""," ""temperature"": ""\u00baC""}"," ""params"": {""local_time"": true"," ""header"": true"," ""lat"": ""51.7520131"""," ""lon"": ""-1.2578499"""," ""date_from"": ""2019-01-01"""," ""date_to"": ""2019-12-31"""," ""dataset"": ""merra2"""," ""capacity"": ""1"""," ""system_loss"": ""0.1"""," ""tracking"": ""0"""," ""tilt"": ""35"""," ""azim"": ""180"""," ""raw"": true}}"
-time,local_time,electricity,irradiance_direct,irradiance_diffuse,temperature,GHI,DHI,,,,,,,,,,,
+timestamp,local_time,electricity,irradiance_direct,irradiance_diffuse,temperature,GHI,DHI,,,,,,,,,,,
 01/01/2019 0:00,01/01/2019 0:00,0,0,0,5.954,0,0,,,,,,,,,,,
 01/01/2019 1:00,01/01/2019 1:00,0,0,0,5.833,0,0,,,,,,,,,,,
 01/01/2019 2:00,01/01/2019 2:00,0,0,0,5.701,0,0,,,,,,,,,,,
